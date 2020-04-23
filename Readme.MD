@@ -1,1 +1,1 @@
-"원주율 구하기"
+getPi program
